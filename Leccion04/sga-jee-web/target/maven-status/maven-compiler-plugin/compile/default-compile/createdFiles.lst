@@ -1,0 +1,15 @@
+mx\com\rlr\sga\servicio\PersonaServiceRemote.class
+mx\com\rlr\sga\cliente\ciclovidajpa\PersistirObjetoJPA.class
+mx\com\rlr\sga\servicio\UsuarioServiceRemote.class
+mx\com\rlr\sga\domain\Usuario.class
+mx\com\rlr\sga\servicio\PersonaServiceImpl.class
+mx\com\rlr\sga\web\UsuarioServlet.class
+mx\com\rlr\sga\datos\UsuarioDao.class
+mx\com\rlr\sga\domain\Persona.class
+mx\com\rlr\sga\servicio\UsuarioServiceImpl.class
+mx\com\rlr\sga\web\PersonaServlet.class
+mx\com\rlr\sga\datos\PersonaDao.class
+mx\com\rlr\sga\servicio\UsuarioService.class
+mx\com\rlr\sga\datos\UsuarioDaoImpl.class
+mx\com\rlr\sga\servicio\PersonaService.class
+mx\com\rlr\sga\datos\PersonaDaoImpl.class

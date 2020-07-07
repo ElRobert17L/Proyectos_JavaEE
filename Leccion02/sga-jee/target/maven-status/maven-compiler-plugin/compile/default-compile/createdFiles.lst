@@ -1,0 +1,4 @@
+mx\com\rlr\cliente\Cliente.class
+mx\com\rlr\sga\domain\Persona.class
+mx\com\rlr\sga\servicio\PersonaServiceRemote.class
+mx\com\rlr\sga\servicio\PersonaServiceImpl.class
